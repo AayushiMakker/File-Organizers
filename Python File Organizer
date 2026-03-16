@@ -1,0 +1,32 @@
+📂 Python File Organizer
+
+A simple Python automation script that organizes files in a folder into categorized subfolders such as Images, Documents, Videos, Music, and Others.
+
+This project helps automate file management by scanning files in a directory and sorting them into folders based on their file extensions.
+
+🚀 Features
+	•	Automatically organizes files into folders
+	•	Supports multiple file types
+	•	Creates folders automatically if they do not exist
+	•	Reduces manual effort in sorting files
+	•	Beginner-friendly Python automation project
+
+  ⚙️ How It Works
+	1.	The script asks the user to enter the folder path to organize.
+	2.	It scans all the files inside the folder.
+	3.	It checks the file extension of each file.
+	4.	Based on the extension, the file is moved to the appropriate folder.
+
+📌 Future Improvements
+	•	Add a graphical user interface (GUI) using Tkinter
+	•	Support more file extensions
+	•	Automatic organization of the Downloads folder
+	•	Duplicate file detection
+
+👨‍💻 Author
+
+Made with ❤️ by Aayushi Makker
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ star on GitHub.
